@@ -16,3 +16,4 @@ Here is my data analysis project on Blinkit.
 5. Sales by Outlet Size
 6. Sales by Outlet Location
 7. All matrices by Outlet Type
+Dashboard- <a href="https://github.com/Dutta-Shreya/Data_Analysis_Dashboard/blob/main/Vrinda%20Store%20Dashboard.png"> View Dashboard </a>
